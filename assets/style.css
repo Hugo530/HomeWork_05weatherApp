@@ -1,0 +1,29 @@
+.header-grad {
+    background-image: linear-gradient(to right,
+    rgba(51, 20, 228, 0.877) 0%,
+    rgb(141, 189, 235) 100%
+  );
+}
+
+.uv-good {
+  background-color: darkgreen;
+}
+
+.uv-med {
+  background-color: orange;
+}
+
+.uv-bad {
+  background-color: red;
+}
+
+.card-5day {
+  background-color: darkslateblue;
+  color:aliceblue;
+  min-width: 10.3em;
+  max-width: 20%;
+}
+
+.icon-size {
+  max-width: 5em;
+}
